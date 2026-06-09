@@ -1,18 +1,18 @@
-# ScopeFab Repo Management
+# FlexFab Repo Management
 
-**ScopeFab**
-* [ScopeFab Website](https://github.com/ScopeFab/ScopeFab-Website)
+**FlexFab**
+* [FlexFab Website](https://github.com/FlexFab/ScopeFab-Website)
 
-**ScopeFab ERP**
-* [BookMySlot-UI](https://github.com/ScopeFab/BookMySlot-UI)
-* [BookMySlot API](https://github.com/ScopeFab/BookMySlot-API)
+**FlexFab Slot Booking ERP**
+* [BookMySlot-UI](https://github.com/FlexFab/BookMySlot-UI)
+* [BookMySlot API](https://github.com/FlexFab/BookMySlot-API)
 
 ## Projects
 **OptiBreath**
-* [OptiBreath Hardware](https://github.com/ScopeFab/OptiBreath-Hardware)
+* [OptiBreath Hardware](https://github.com/FlexFab/OptiBreath-Hardware)
 
 **SNST IIT KGP**
-* [SNST IIT KGP Website](https://github.com/ScopeFab/SNST-IIT-KGP-Website)
+* [SNST IIT KGP Website](https://github.com/FlexFab/SNST-IIT-KGP-Website)
 
 **Smart Spirometer**
 * *(Coming soon)*
