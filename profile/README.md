@@ -1,7 +1,7 @@
 # FlexFab Repo Management
 
 **FlexFab**
-* [FlexFab Website](https://github.com/FlexFab/ScopeFab-Website)
+* [FlexFab Website](https://github.com/FlexFab/FlexFab-Website)
 
 **FlexFab Slot Booking ERP**
 * [BookMySlot-UI](https://github.com/FlexFab/BookMySlot-UI)
